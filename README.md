@@ -8,5 +8,10 @@ To run this project locally, you will need to have Python 3 installed on your sy
 
 Once you have Python installed, you can follow these steps to set up the project:
 
-Clone this repository to your local machine using git clone https://github.com/yourusername/arabic-sentiment-analysis.git.
-Navigate to the project directory using the command cd arabic-sentiment-analysis.
+<ul>
+  <li>Clone the repository</li>
+  <li>Install the required packages by running pip install -r requirements.txt</li>
+  <li>Run the app by running python app.py in your terminal</li>
+</ul>
+
+
