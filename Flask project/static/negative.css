@@ -1,0 +1,23 @@
+/* Override the default Bootstrap styles */
+body {
+    background-color: #FEEFB3;
+  }
+  
+  h1 {
+    color: #9F6000;
+  }
+  
+  .btn-primary {
+    background-color: #9F6000;
+    border-color: #9F6000;
+  }
+  
+  .btn-primary:hover {
+    background-color: #BF7300;
+    border-color: #BF7300;
+  }
+  
+  .form-control:focus {
+    border-color: #9F6000;
+    box-shadow: 0 0 0 0.2rem rgba(159, 96, 0, 0.25);
+  }
