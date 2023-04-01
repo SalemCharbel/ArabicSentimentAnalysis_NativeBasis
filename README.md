@@ -1,6 +1,6 @@
 <h1>Arabic Sentiment Analysis Flask App</h1>
 
-This is a Flask project that provides a simple web interface for performing sentiment analysis on Arabic text. The project uses a pre-trained machine learning model to classify Arabic text as positive or negative. The user inputs some Arabic text and the model returns the sentiment classification.
+This is a Flask project that provides a simple web interface for performing sentiment analysis on Arabic text. The project uses Multinominal Naive Bayes to classify Arabic text as positive or negative. The user inputs some Arabic text and the model returns the sentiment classification.
 
 
 <h2>Installation</h2>
